@@ -1,2 +1,2 @@
 # LearningGit
-Use to learn Git / Fresco Play
+Use to learn Git / Fresco Play2
